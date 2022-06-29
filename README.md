@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterStoerm
-- 👀 I’m interested in data science and advancing my knowledge in different areas of programming
+- 👀 I’m interested in data science and programming. I am a student and looking for different opportunities to advance my knowledge and understanding of data science. In this github, I have and will continue to post projects that showcase my technical skills. 
 - 🌱 I’m currently learning python, r and SQL
 - 📫 How to reach me stoermerp1@montclair.edu
 
